@@ -2,7 +2,8 @@
 layout: post
 title:  "Getting Started With AI"
 categories: [ 商业模式 ]
-image: "https://i.loli.net/2020/07/12/byIfC18DA4EgvpJ.jpg"
+image: assets/images/human-vs-robots.jpg
+tags: [sticky]
 ---
 
 关于AI的应用场景，大家已经听了太多。从`科大讯飞`引以为豪的语音识别技术，到图像识别`四小龙`的人脸识别，更不用提谷歌战胜人类杰出代表的`alpha-GO`机器人。AI不仅可以轻而易举占领我们的热搜，更已经进入我们的日常生活。
