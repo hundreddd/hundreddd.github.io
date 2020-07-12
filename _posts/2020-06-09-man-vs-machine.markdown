@@ -7,10 +7,6 @@ image: "https://i.loli.net/2020/06/13/Jh3VvSp4iTjRgWl.jpg"
 tags: [featured]
 ---
 
-![maxime-valcarce-mAj8xn5zXsk-unsplash.jpg](https://i.loli.net/2020/06/13/Jh3VvSp4iTjRgWl.jpg)
-
-<p align="center">Photo by Maxime VALCARCE on Unsplash</p> 
-
 ## We just have abundant of data
 Using the bannking industry as an example, in 2019 11.352 billion new accounts have been opened in China, an increase of 12.07% from the previous year. In the same year, the People's Bank of China Payment System [^1] have processed a total of 568.512 billion transactions, in accounting with an amount of 690.22 trillion renminbi, or 100 triillon US dollors equivent. Each account information and transaction has been stored in digtial.
 
