@@ -7,7 +7,7 @@ image: "https://i.loli.net/2020/06/13/Jh3VvSp4iTjRgWl.jpg"
 tags: [featured]
 ---
 
-## We just have abundant of data
+##### 我们有充足的数据
 Using the bannking industry as an example, in 2019 11.352 billion new accounts have been opened in China, an increase of 12.07% from the previous year. In the same year, the People's Bank of China Payment System [^1] have processed a total of 568.512 billion transactions, in accounting with an amount of 690.22 trillion renminbi, or 100 triillon US dollors equivent. Each account information and transaction has been stored in digtial.
 
 In addition to the large-scale of data, the accuracy of data found in financial institutions is in general better than other business sectors. Financial regulators all over the world have specific legal provisions and system regulations that restrict the accuracy of account data.
