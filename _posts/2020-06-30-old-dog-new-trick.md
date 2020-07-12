@@ -2,7 +2,7 @@
 layout: post
 title:  "Old Dog New Tricks：聊天即社交、社交即商业"
 categories: [ 聊天机器人 ]
-image: "https://i.loli.net/2020/07/12/ojXkzIf1lm25qJs.jpg"
+image: assets/images/daniel-cheung-aP0g2W5OJ6o-unsplash.jpg
 tags: [featured]
 ---
 

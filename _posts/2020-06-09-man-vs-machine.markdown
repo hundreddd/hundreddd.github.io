@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "How To Improve Your Data Quality Before Trainging A NLP Model"
-date:   2020-06-30 
 categories: [ 数据质量, AI训练师 ]
-image: "https://i.loli.net/2020/06/13/Jh3VvSp4iTjRgWl.jpg"
+image: assets/images/maxime-valcarce-mAj8xn5zXsk-unsplash.jpg
 tags: [featured]
 ---
 
-##### 我们有充足的数据
+#### 我们有充足的数据
 Using the bannking industry as an example, in 2019 11.352 billion new accounts have been opened in China, an increase of 12.07% from the previous year. In the same year, the People's Bank of China Payment System [^1] have processed a total of 568.512 billion transactions, in accounting with an amount of 690.22 trillion renminbi, or 100 triillon US dollors equivent. Each account information and transaction has been stored in digtial.
 
 In addition to the large-scale of data, the accuracy of data found in financial institutions is in general better than other business sectors. Financial regulators all over the world have specific legal provisions and system regulations that restrict the accuracy of account data.
@@ -17,12 +16,12 @@ In addition to the large-scale of data, the accuracy of data found in financial 
 
 金融机构更是最愿意尝试AI技术、实现开源节流的行业。数据显示，其应用AI技术已初见成效。以中国一家股份制商业银行为例，通过使用聊天机器人替代传统坐席，月均接待用户进线量350万次，每年直接节约人力成本超过人民币2000万元。公平的说，金融机构确实在AI能力应用上，摘到了`低垂的果实`。媒体上“人工智能将在各行各业逐步替代人工”的报道，也经常成为头条。但真的是这样吗？
 
-### 我们缺的是高质量的数据
+#### 我们缺的是高质量的数据
 AI行业大量的研究聚焦到算法层面，企业对数据质量的关注明显是不够的。但只有高质量的数据，才能使算法在实际场景中见效。对数据质量的持续优化，也能解决人工标注出现的错误。
 
 但在实际工作中，要想提升训练模型数据的质量，我们面临有很多挑战，主要表现在评价数据质量的两个维度上：`正确性`和`连惯性`。前者，是要确定数据是正确的。这在传统账户体系上，是显而易见的。如基于NLP的语义理解，`正确`大概可以被解释为：没有错别字、文字表达的意图明确、用于训练机器人的不同FAQ语料之间没有重复、相似意图等。后者，即：`连贯`性，要求不同人对同一事物的看法是一致的。考虑到个体认知的差异化，这点也很难。
 
-### 我们数据质量到底有多好
+#### 我们数据质量到底有多好
 为量化数据质量，我们用Thomas C. Redman博士提出的一个简单、清晰的公式“Friday Afternoon Measurement” (FAM)来计算数据质量评分[^3]。对我们上文提到的文本机器人，计算该指标的基本步骤如下：
 1. 首先，我们选定了衡量语料质量的6个指标，如下表所示：
 
@@ -50,9 +49,7 @@ $$
 
 我们的数据显示，仅有25%的的数据质量勉强达到60分以上的水平，不足0.14%的数据，质量达到了90分。根据Tadhg Nagle，Thomas C. Redman和David Sammon在[^4]一文中统计的结果，仅有3%的公司数据质量基本合格。大概率我们是不在这3%之中的。那么问题来了，如何提升数据质量？
 
-## 构建"机器+人"的合作模式
-### 解决方案
-
+#### 构建"机器+人"的合作模式
 之前我们介绍了基于FAM公式下的数据质量评价体系，它扮演着类似审计的角色，成为我们衡量的基准。下面就引入我们完整的治理解决方案，其由三个组件构成，分别是`服务前台`、`治理中台`和`管理后台`。整体结构如下图所示。
 1. 服务前台，关注用户体验优化，通过制定一系列规范，减少人为操作的个体差异性。
 2. 治理中台，负责NLP算法的研发，为AI训练师提供知识运营辅助工具，在兼顾语料人性化的同时，确保语义理解维度的标准化。
@@ -64,7 +61,7 @@ $$
 
 我们知道，更多治理细节没有在图示中显示，我们欢迎读者对感兴趣的部分留言，我们也会及时回复。
 
-### 算法平台介绍
+#### 算法平台介绍
 根据之前的6个衡量指标，我们采用了如下一系列算法优化数据质量。这些算法在实际运用中，获得了不错的结果。
 
 ![data_correction.jpg](https://i.loli.net/2020/06/18/U5ke3fA6CYapXxB.jpg)
@@ -77,7 +74,7 @@ $$
 
 <p align="center">Data Quality Assessment Revised</p> 
 
-### 财务价值
+#### 财务价值
 通过建立完整的知识治理闭环，项目成功节约运营成本人民币320万元。除此之外，还有一系列核心指标得到显著改善，包括：
 
 1. 知识质量提升，从之前25%的合格率（即：达到60分）提升到了97%的合格率。
@@ -88,7 +85,7 @@ $$
 
 <p align="center">Data Quality ROI </p> 
 
-## 下一步是什么
+#### 下一步是什么
 我们从有限的经验理解到，一个企业拥抱AI、赋能业务场景通常会选择以专家、领导驱动的方式推动项目落地。这样做的好处显而易见：决策流程短、见效快，对创新风险有人能承担责任。最后一点在一些大型企业中尤为重要。但这样的方式，也有其不足的地方：
 
 1. 无法充分将AI项目迅速推广，形成规模效益。
