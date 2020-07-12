@@ -4,7 +4,7 @@ title:  "How To Improve Your Data Quality Before Trainging A NLP Model"
 date:   2020-06-30 
 categories: data quality
 image: assets/images/human-vs-robots.jpg
-tags: [sticky]
+tags: [featured]
 ---
 
 ![maxime-valcarce-mAj8xn5zXsk-unsplash.jpg](https://i.loli.net/2020/06/13/Jh3VvSp4iTjRgWl.jpg)
