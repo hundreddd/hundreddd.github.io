@@ -2,7 +2,7 @@
 layout: post
 title:  "Could we reinvent the charm of old cities"
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: "https://i.loli.net/2020/07/12/HFmdaCB25Uv1ctn.jpg"
 tags: [sticky]
 ---
 
