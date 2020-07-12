@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "AI系列文章"
+title:  "01-如何从商业视角理解AI"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/human-vs-robots.jpg
-tags: [sticky]
 ---
 
 Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
