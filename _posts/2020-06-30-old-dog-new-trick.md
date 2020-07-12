@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Old Dog New Tricks：聊天即社交、社交即商业"
-author: sotonmac
 categories: [ 聊天机器人 ]
 image: "https://i.loli.net/2020/07/12/ojXkzIf1lm25qJs.jpg"
 tags: [featured]
