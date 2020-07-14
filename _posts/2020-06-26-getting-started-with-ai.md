@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started With AI"
 categories: [ 商业模式 ]
-image: assets/images/human-vs-robots.jpg
+image: "https://i.loli.net/2020/07/14/EINLdZHmvYbxGtr.jpg"
 tags: [featured]
 ---
 

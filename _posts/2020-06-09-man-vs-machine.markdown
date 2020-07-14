@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Improve Your Data Quality Before Trainging A NLP Model"
 categories: [ 数据质量, AI训练师 ]
-image: assets/images/maxime-valcarce-mAj8xn5zXsk-unsplash.jpg
+image: "https://i.loli.net/2020/07/14/YHjCsLoytlPmiZw.jpg"
 tags: [featured]
 ---
 
