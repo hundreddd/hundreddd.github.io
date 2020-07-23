@@ -9,8 +9,8 @@ tags: [featured]
 
 
 > ”I am Groot! “
->
-> Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/groot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/groot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 
 #### AI能做什么
@@ -30,6 +30,7 @@ tags: [featured]
 从X到Y的转化过程可以看出，这个系统的建设需要很多X和Y，以及X->Y的关系。专业术语将这个转化过程、或系统称为`专家学习系统`。如今，相关人工智能技术仍在高速的迭代，大家谈论更多的是`深度学习`，`深度神经网络`等技术在上述场景中的应用，这些算法的名字也让很容易让大家联想到人的大脑。但事实上，人类智能和能胜任的工作，是远远超过哪怕是最新的专家系统；说AI替代人类，实在为时过早。即便如此，为了让这个专家系统投入产出，我们需要喂给它很多数据，是的，很多、很多的数据，并且X和Y的数据都要。而从笔者从业经历看，获得这些数据的成本并不便宜，或者你需要一群人配合你做大量的数据收集、处理工作，`AI训练师`的岗位顺应而生，后面我们有专门的章节讲这个。
 
 那么，判断你的工作、所在的行业或企业，AI是否适用的标准是什么？是的，你会因为AI技术的迭代而失业吗？我们在这介绍一个简单的方法，称为`杰克船长`法。好莱坞系列电影《加勒比海盗》中的杰克船长，经常在危难之时要判断下一步的重大方向，他的标准动作是：
+
 第一步：爬到帆船桅杆的高处，取出望远镜观察远方的环境。
 
 第二步：放下望远镜，环顾海盗船上的人力、武器、供给。
@@ -37,6 +38,7 @@ tags: [featured]
 第三步：作出决定，按照望远镜看到的目标前进或调整方向。
 
 作为企业家、公司高管、团队负责人，你也是自己企业、组织和团队的`领航员`，即`Nagvigator`。在判断是否采用AI技术的时候，采取的步骤如下：
+
 第一步：判断你想解决的业务问题、流程或场景，能否通过简单判断就可以处理。如果是，这项工作或业务就有被AI优化的可能。
 
 第二步：在第一步选定的场景里，是否已经有足够的X，Y，X->Y的数据，以及处理X，Y数据的技术人才。如果当前没有数据和人才，获取的成本高吗？如果当前就有，或容易获得，那你采用AI技术的可能性，又增加了很多。
