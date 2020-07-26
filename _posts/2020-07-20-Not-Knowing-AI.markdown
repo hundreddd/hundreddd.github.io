@@ -37,6 +37,9 @@ Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unspla
 2. 第二步：放下望远镜，环顾海盗船上的人力、武器、供给。
 3. 第三步：作出决定，按照望远镜看到的目标前进或调整方向。
 
+![diego-catto-xl-TxnzkkYo-unsplash.jpg](https://i.loli.net/2020/07/26/eyDbmP64XnSuv8I.jpg)
+<p align="center"><span>Photo by <a href="https://unsplash.com/@diegocatto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Diego Catto</a> on <a href="https://unsplash.com/s/photos/pirates-of-the-caribbean?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></p> 
+
 作为企业家、公司高管、团队负责人，你是企业、组织和团队的`领航员`，`Nagvigator`。在判断是否采用AI技术的时候，可以采取如下步骤：
 
 1. 第一步：判断你想解决的业务问题、流程或场景，能否通过简单判断就可以处理。如果是，这项工作或业务就有被AI优化的可能。
