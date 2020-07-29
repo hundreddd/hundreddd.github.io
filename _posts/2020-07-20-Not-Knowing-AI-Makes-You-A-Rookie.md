@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "商业中的人工智能：从0到1"
+title:  "今时今日，谁还不懂点AI？"
 date:   2020-07-20 
 categories: [ 人工智能, 商业模式 ]
 image: "https://i.loli.net/2020/07/23/BZgyfWUD4qHPmO7.jpg"
@@ -68,7 +68,7 @@ Photo by [Erik Mclean](https://unsplash.com/@introspectivedsgn?utm_source=unspla
 
 
 
-![qrcode_for_gh_c58edbe7b7a9_258.jpg](https://i.loli.net/2020/07/27/KEzPXiYWnLAj562.jpg)
+![qrcode_for_gh_c58edbe7b7a9_258-2.jpg](https://i.loli.net/2020/07/30/5GmnM7FgD4L9aSC.jpg)
 
 
 

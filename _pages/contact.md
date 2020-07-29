@@ -4,7 +4,13 @@ permalink: "/contact.html"
 ---
 
 ##### 新尝试
-这里会有惊喜。
+```
+![IMG_0003.jpg](https://i.loli.net/2020/07/30/8VEMofTiUH5nrde.jpg)
+```
+
+
+
+
 
 
 
