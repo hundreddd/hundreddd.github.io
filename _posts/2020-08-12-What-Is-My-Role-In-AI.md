@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "AI困局：长尾"
+title:  "AI破局：我的奶酪在哪里？"
 date:   2020-08-12 
-categories: [ AI商业化, TikTok ]
+categories: [ AI商业化, 商业模式, AI训练师 ]
 image: "https://i.loli.net/2020/07/30/ohfFTSL4dCY9PQs.jpg"
 tags: [featured]
 ---
@@ -34,6 +34,9 @@ AI之所以引人注目，因为其作为一种创新性技术，对任何现有
 
 这是典型的对传统银行信贷业务的`维持性创新`，其创新点在利用的新的数据，调优的新的模型，适用新的客群。
 
+#### AI给机会
+
+#### 抓住AI
 
 
 
