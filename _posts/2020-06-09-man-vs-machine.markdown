@@ -1,27 +1,17 @@
 ---
 layout: post
-title:  "How To Improve Your Data Quality Before Trainging A NLP Model"
+title:  "人工智能有饭吃：AI训练师"
 categories: [ 数据质量, AI训练师 ]
 image: "https://i.loli.net/2020/07/14/YHjCsLoytlPmiZw.jpg"
 tags: [featured]
 ---
 
-#### 我们有充足的数据
-Using the bannking industry as an example, in 2019 11.352 billion new accounts have been opened in China, an increase of 12.07% from the previous year. In the same year, the People's Bank of China Payment System [^1] have processed a total of 568.512 billion transactions, in accounting with an amount of 690.22 trillion renminbi, or 100 triillon US dollors equivent. Each account information and transaction has been stored in digtial.
-
-In addition to the large-scale of data, the accuracy of data found in financial institutions is in general better than other business sectors. Financial regulators all over the world have specific legal provisions and system regulations that restrict the accuracy of account data.
-
-
-除了数据规模巨大，金融机构数据准确度高。这不难想象，金融机构在其核心系统上投入巨大。金融从业人员大概都知道，如果是人为原因导致客户的资金出错，是有直接被开除的风险。全世界各国金融监管机构都有具体法律条款、制度规范，约束账户类数据的准确性。
-
-金融机构更是最愿意尝试AI技术、实现开源节流的行业。数据显示，其应用AI技术已初见成效。以中国一家股份制商业银行为例，通过使用聊天机器人替代传统坐席，月均接待用户进线量350万次，每年直接节约人力成本超过人民币2000万元。公平的说，金融机构确实在AI能力应用上，摘到了`低垂的果实`。媒体上“人工智能将在各行各业逐步替代人工”的报道，也经常成为头条。但真的是这样吗？
-
-#### 我们缺的是高质量的数据
+#### 我们缺高质量数据
 AI行业大量的研究聚焦到算法层面，企业对数据质量的关注明显是不够的。但只有高质量的数据，才能使算法在实际场景中见效。对数据质量的持续优化，也能解决人工标注出现的错误。
 
 但在实际工作中，要想提升训练模型数据的质量，我们面临有很多挑战，主要表现在评价数据质量的两个维度上：`正确性`和`连惯性`。前者，是要确定数据是正确的。这在传统账户体系上，是显而易见的。如基于NLP的语义理解，`正确`大概可以被解释为：没有错别字、文字表达的意图明确、用于训练机器人的不同FAQ语料之间没有重复、相似意图等。后者，即：`连贯`性，要求不同人对同一事物的看法是一致的。考虑到个体认知的差异化，这点也很难。
 
-#### 我们数据质量到底有多好
+#### 数据质量到底有多好
 为量化数据质量，我们用Thomas C. Redman博士提出的一个简单、清晰的公式“Friday Afternoon Measurement” (FAM)来计算数据质量评分[^3]。对我们上文提到的文本机器人，计算该指标的基本步骤如下：
 1. 首先，我们选定了衡量语料质量的6个指标，如下表所示：
 

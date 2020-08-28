@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "AI破局：我的奶酪在哪里？"
+title:  "创新者的窘境：我的奶酪在哪里？"
 date:   2020-08-12 
-categories: [ AI商业化, 商业模式, AI训练师 ]
-image: "https://i.loli.net/2020/07/30/ohfFTSL4dCY9PQs.jpg"
+categories: [ AI商业化, 商业模式, Big Data ]
+image: "https://i.loli.net/2020/08/28/ZfGJ7QvtqxkD9BL.jpg"
 tags: [featured]
 ---
 
 
-> ”It takes all the running you can do, to stay in the same place”. The Red Queen Hypothesis
+> When New Technologies Cause Great Firms to Fail...
 
 
 
