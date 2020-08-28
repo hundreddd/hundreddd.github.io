@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AI101：人工智能商业化从0到1"
+title:  "创造101：人工智能商业化从0到1"
 date:   2020-07-20 
 categories: [ 人工智能, 商业模式 ]
-image: "https://i.loli.net/2020/07/23/BZgyfWUD4qHPmO7.jpg"
+image: "https://i.loli.net/2020/08/29/b6LwSRyXqIj9flQ.jpg"
 tags: [featured]
 ---
 

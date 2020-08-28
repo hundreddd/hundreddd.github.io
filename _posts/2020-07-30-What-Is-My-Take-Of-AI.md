@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "超越AI：在错误时间遇到正确的TikTok"
+title:  "AI和地缘政治：在错误时间遇到正确的TikTok"
 date:   2020-07-30 
 categories: [ 字节跳动, AI商业化, TikTok ]
 image: "https://i.loli.net/2020/07/30/ohfFTSL4dCY9PQs.jpg"
