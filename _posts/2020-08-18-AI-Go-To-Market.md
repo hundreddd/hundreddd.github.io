@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "企业已变：如何销售AI产品？"
+title:  "规则已变：如何销售AI产品？"
 date:   2020-08-18 
 categories: [ 产品销售, SaaS, Marketing ]
 image: "https://i.loli.net/2020/08/28/jekWdT7rtzoqX4s.jpg"
