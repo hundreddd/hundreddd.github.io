@@ -30,6 +30,11 @@
 
     {% include tracking-header.html %}
 
+    <!-- 为使用google analytics 新加的代码 --> 
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}
+
 
 </head>
 

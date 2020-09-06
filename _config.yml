@@ -59,6 +59,9 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+## 为使用google analytics 新加的代码
+google_analytics: "UA-168032639-2" 
+
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
