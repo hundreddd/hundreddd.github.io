@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例：聊天即社交、社交即商业"
+title:  "人工智能应用案例（四）：聊天即社交、社交即商业"
 categories: [ 聊天机器人 ]
 image: "https://i.loli.net/2020/07/14/xS9JqaN76IybFrE.jpg"
 tags: [featured]

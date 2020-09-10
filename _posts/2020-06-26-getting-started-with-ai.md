@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "冷眼旁观：传统企业如何快速上手AI？"
+title:  "人工智能应用案例（三）：传统企业如何巧用人工智能技术？"
 categories: [ 商业模式, 数字化转型, 人工智能案例 ]
 image: "https://i.loli.net/2020/08/28/Z3j8YuhLsfq216w.jpg"
 tags: [featured]

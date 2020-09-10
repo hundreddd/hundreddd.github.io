@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能难变现：创业公司如何卖产品？"
+title:  "人工智能应用案例（一）：人工智能产品变现难？"
 categories: [ AI创业, SaaS, Marketing ]
 image: "https://i.loli.net/2020/07/14/6svmoMPAqWeZ4yG.jpg"
 ---
