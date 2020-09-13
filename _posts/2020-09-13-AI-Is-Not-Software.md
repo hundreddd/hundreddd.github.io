@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "人工智能应用案例（八）：AI产品怎么卖？"
-date:   2020-08-18 
+title:  "人工智能应用案例（九）：卖AI产品，就是卖应用软件？"
+date:   2020-09-13 
 categories: [ 产品销售, SaaS, Marketing ]
 image: "https://i.loli.net/2020/08/28/jekWdT7rtzoqX4s.jpg"
 tags: [featured]
