@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（五）：AI商业化从0到1"
+title:  "人工智能应用案例（5）：AI商业化从0到1"
 date:   2020-07-20 
 categories: [ 人工智能, 商业模式 ]
 image: "https://i.loli.net/2020/08/29/b6LwSRyXqIj9flQ.jpg"

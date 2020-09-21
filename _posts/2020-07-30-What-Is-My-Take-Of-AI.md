@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（六）：在错误时间遇到正确的TikTok"
+title:  "人工智能应用案例（6）：在错误时间遇到正确的TikTok"
 date:   2020-07-30 
 categories: [ 字节跳动, AI商业化, TikTok ]
 image: "https://i.loli.net/2020/07/30/ohfFTSL4dCY9PQs.jpg"

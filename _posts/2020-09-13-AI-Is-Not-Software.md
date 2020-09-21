@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（九）：AI产品，和SaaS是一回事吗？"
+title:  "人工智能应用案例（9）：AI产品，和SaaS是一回事吗？"
 date:   2020-09-13 
 categories: [ 产品销售, SaaS, Marketing ]
 image: "https://i.loli.net/2020/08/28/jekWdT7rtzoqX4s.jpg"
