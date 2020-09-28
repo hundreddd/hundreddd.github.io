@@ -8,6 +8,8 @@ tags: [featured]
 ---
 
 
+> The low-hanging fruit principle in business refers to the approach that some executives take to focus on the most easily attainable goals.
+
 #### 你的第一个AI项目
 好的，你决定对AI做些尝试、考虑开始第一个项目，具体该怎么做？答案并不复杂、也根本不是个技术问题！和做任何买卖一样，速赢、摘取`低垂的果实`，做最小闭环。有一点很重要、却经常被管理者忽略：**企业采用新技术，往往代表变革的决心和态度，企业需要建立相应的氛围和文化，配合创新带来的变化**。下面是具体的操作建议。
 
