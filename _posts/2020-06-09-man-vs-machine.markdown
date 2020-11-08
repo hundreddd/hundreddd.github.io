@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（2）：AI训练师有饭吃"
+title:  "辞旧迎新：AI训练师有饭吃"
 categories: [ 数据质量, AI训练师 ]
 image: "https://i.loli.net/2020/07/14/YHjCsLoytlPmiZw.jpg"
 tags: [featured]

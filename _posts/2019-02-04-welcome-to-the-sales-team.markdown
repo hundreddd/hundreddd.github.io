@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（1）：AI产品变现难？"
+title:  "实事求是：AI产品变现难？"
 categories: [ AI创业, SaaS, Marketing ]
 image: "https://i.loli.net/2020/07/14/6svmoMPAqWeZ4yG.jpg"
 ---

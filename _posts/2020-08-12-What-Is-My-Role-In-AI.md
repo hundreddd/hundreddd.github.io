@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "人工智能应用案例（7）：AI创新者的窘境？"
+title:  "创新何其难：AI创新者的窘境？"
 date:   2020-08-12 
 categories: [ AI商业化, 商业模式, Big Data ]
 image: "https://i.loli.net/2020/08/28/ZfGJ7QvtqxkD9BL.jpg"
