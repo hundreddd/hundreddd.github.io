@@ -21,7 +21,7 @@ permalink: "/contact.html"
 
 ##### 留言
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">欢迎给我留言: sotonmac@icloud.com</p>
+<p class="mb-4">欢迎给我留言: sotonmac@gmail.com</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>
