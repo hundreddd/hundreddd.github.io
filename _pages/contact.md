@@ -3,19 +3,11 @@ title: "分析与思考"
 permalink: "/contact.html"
 ---
 
-##### 尝试
 
-![IMG_0003.jpg](https://i.loli.net/2020/07/30/8VEMofTiUH5nrde.jpg)
+##### 关于我
 
+人的一生就是点连成线的过程，往往记录的少、没记的多。不管这条线最终走向何方，把过程中有价值的东西传递出去，是这里的目标。
 
-
-
-
-
-
-
-##### 写作
-更多是把点连成线的过程。国外很多科技博主，在[Medium](www.medium.com)发表可读性很强的专栏。我个人最崇拜的，还是[ Benedict Evans ](https://www.ben-evans.com/benedictevans)，他2013年开始写作，现在已经积累了超过140,000的注册用户。
 
 
 
