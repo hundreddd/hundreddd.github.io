@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  市场波动对日内交易意味着什么？
+title:  又见Elon Musk发推特
 date:   2021-06-12 
 categories: [ 日内交易 波动率]
-image: "https://i.loli.net/2021/06/16/3okHGbY8rZwh7qP.jpg"
+image: "https://i.loli.net/2021/06/16/USdLNiaXkjzeCGs.jpg"
 tags: [featured]
 ---
 
@@ -60,21 +60,16 @@ tags: [featured]
 
 
 
-
 结论是：创新和技术将不断颠覆日内交易这个领域，我们唯有不断变化，才能保持不变。
 
 
 
 
+![barcode.jpg](https://i.loli.net/2021/06/16/827EFeYPLnzUQrS.jpg)
 
 
 
-
-
-
-_Cover Photo by <a href="https://unsplash.com/@clemono?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clem Onojeghuo</a> on <a href="https://unsplash.com/s/photos/stock-volatility?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-_Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clay Banks</a> on <a href="https://unsplash.com/s/photos/stock-volatility?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+_Cover Photo by Pawel Janiak on Unsplash
 
 
 
