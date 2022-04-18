@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "时间序列建模基础"
+title:  "1.1. 时间序列建模基础"
 date:   2022-04-02 
 categories: 时间序列
 ---
