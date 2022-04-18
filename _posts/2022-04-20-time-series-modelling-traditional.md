@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1.2 时间序列建模：传统方法"
-date:   2022-04-18
+date:   2022-04-20
 categories: 时间序列
 ---
 

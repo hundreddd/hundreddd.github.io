@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/). Risk management is the key.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### 研究与实验
 
 
-[jekyll-organization]: https://github.com/jekyll
+泉烽波动实验室，专注于对市场波动性的研究和试验，具体包括股票、ETF，现金市场等。我们通过搭建各类机器学习、深度学习模型预测上述各类金融资产的风险。这些风控模型可以被定制化，而从和不同的量化策略结合，以提升目标策略的夏普值。
+
+
+#### 基础框架
+
+
+金融即数据，人工智能和机器学习让计算机可以很好的处理大量冗余的数据，并从数据中去除噪音、找到隐含的模式。
