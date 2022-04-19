@@ -164,5 +164,3 @@ print("The test statistic and p-value of ADF test after differencing are {}"\
 ```
 
     The test statistic and p-value of ADF test after differencing are (-7.626044383938417, 2.0674409027489904e-11)
-
-![](C:\Users\ROSSN\Documents\myblog\hundreddd.github.io\assets\images\1.jpg)
