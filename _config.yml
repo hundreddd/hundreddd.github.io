@@ -27,6 +27,8 @@ url: "www.szvlab.com" # the base hostname & protocol for your site, e.g. http://
 twitter_username: sotonmac
 github_username:  jekyll
 
+google_analytics: UA-168032639-2
+
 # Build settings
 theme: minima
 plugins:
