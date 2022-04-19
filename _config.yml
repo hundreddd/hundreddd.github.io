@@ -23,7 +23,7 @@ email: sotonmac@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection for volatility analysis, machine learning and deep learning.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.ai4real.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.szvlab.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sotonmac
 github_username:  jekyll
 
