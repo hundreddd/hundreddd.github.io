@@ -21,7 +21,7 @@
 title: Spring Volatility Lab | 泉烽波动实验室
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A Startup For Volatility Tech
+  A Platform For Volatility Tech
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.szvlab.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sotonmac

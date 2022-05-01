@@ -2,11 +2,11 @@
 layout: post
 title:  "2.2 时间序列建模：深度学习（2/3）"
 date:   2022-04-30
-categories: 时间序列 深度学习 CNN
+categories: 时间序列 深度学习 RNN
 ---
 
 
-我们继续之前的实验，通过CNN模型预测沪深300的价格。
+我们继续之前的实验，通过RNN模型预测沪深300的价格。
 
 
 ```python
@@ -84,7 +84,7 @@ csi300_test.shape
 
 
 
-再将训练集和测试集转换成CNN需要的三维数据格式，具体操作如下：
+再将训练集和测试集转换成RNN需要的三维数据格式，具体操作如下：
 
 
 ```python
@@ -298,7 +298,7 @@ plt.grid()
 ![output_32_0.png](https://s2.loli.net/2022/04/30/uH5CFBPb1ENfq7A.png)
     
 
-我们基本可以得出结论，即：上面训练的CNN模型在实际交易中基本不可用；我们接着用LSTM（Long Short-Term Memory）替换SimpleRNN。
+我们基本可以得出结论，即：上面训练的RNN模型在实际交易中基本不可用；我们接着用LSTM（Long Short-Term Memory）替换SimpleRNN。
 
 
 ```python

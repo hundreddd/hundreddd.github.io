@@ -2,7 +2,7 @@
 layout: post
 title:  "2.1 时间序列建模：深度学习（1/3）"
 date:   2022-04-23
-categories: 时间序列 深度学习 CNN
+categories: 时间序列 深度学习 RNN
 ---
 
 
@@ -195,7 +195,7 @@ plt.show()
 ![output_23_0.png](https://s2.loli.net/2022/04/23/AWgcKaSi5PT4lbt.png)
 ​    
 
-下面我们将同样的数据、结合长短期记忆网络（LSTM，Long Short-Term Memory）模型做预测，并和CNN模型对比下预测的准确率。
+下面我们将同样的数据、结合长短期记忆网络（LSTM，Long Short-Term Memory）模型做预测，并和RNN模型对比下预测的准确率。
 
 
 
